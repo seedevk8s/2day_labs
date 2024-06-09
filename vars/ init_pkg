@@ -1,0 +1,4 @@
+mypkg:
+  - zsh
+  - net-tools
+  - nginx
