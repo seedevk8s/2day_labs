@@ -1,0 +1,3 @@
+shell_pkg: zsh
+ip_pkg: net-tools
+web_pkg: nginx

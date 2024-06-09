@@ -1,0 +1,8 @@
+[testweb]
+servera.test.com
+serverb.test.com
+
+[prodweb]
+serverc.test.com
+serverd.test.com
+
